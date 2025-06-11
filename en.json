@@ -1,0 +1,34 @@
+{
+  "signUp": {
+    "main": {
+      "title": "Create an account on Paribu.",
+      "description": "You can review how your information is stored and used <a href=\"https://paribu.zendesk.com/api/v2/help_center/tr/articles/115001572365\">here</a>.",
+      "input": {
+        "phone": "Your mobile phone number",
+        "email": "Your email address",
+        "password": "Your password",
+        "passwordAgain": "Repeat your password",
+        "reference": "Campaign code (optional)"
+      },
+      "legal": {
+        "content1": "I have read, understood, and agree to the <a href=\"https://paribu.zendesk.com/api/v2/help_center/articles/115001575125\">Terms of Use and Membership Agreement</a>.",
+        "content2": "I have read the <a href=\"https://paribu.zendesk.com/api/v2/help_center/tr/articles/360015372839\">Explicit Consent Text</a> prepared for users creating an account, and I consent to the processing of my personal data within this scope.",
+        "content3": "I agree to receive commercial electronic messages via email, phone, and electronic communication channels within the scope of the <a href=\"https://paribu.zendesk.com/api/v2/help_center/articles/8513177980954\">Commercial Electronic Message Permission Information Text</a> regarding products and services.",
+        "content4": "You can find information regarding the processing of personal data in the context of account creation in the <a href=\"https://paribu.zendesk.com/api/v2/help_center/tr/articles/360015388459\">Information Text</a>.",
+        "content5": "You can find information on how we process and protect personal data in our <a href=\"https://paribu.zendesk.com/api/v2/help_center/tr/articles/115001572365\">Personal Data Processing and Protection Policy</a>."
+      },
+      "error": {
+        "phone": "You must enter your phone number and email address",
+        "password": {
+          "empty": "You must set a password"
+        },
+        "passwordAgain": {
+          "empty": "You must re-enter the password you set",
+          "wrong": "The passwords you entered must match"
+        },
+        "reference": "The code you entered is invalid",
+        "campaign": "The campaign code you entered is invalid"
+      }
+    }
+  }
+}

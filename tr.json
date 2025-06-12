@@ -1,10 +1,10 @@
 {
   "signUp": {
     "main": {
-      "title": "Paribu'da hesap oluştur...",
+      "title": "Paribu'da hesap\noluştur",
       "description": "Bilgilerinizin nasıl saklandığını ve kullanıldığını <a href=\"https://paribu.zendesk.com/api/v2/help_center/tr/articles/115001572365\">buradan</a> inceleyebilirsiniz.",
       "input": {
-        "phone": "Cep telefonu numaranız",
+        "phone": "Cep telefonu\n\nnumaranız",
         "email": "E-posta adresiniz",
         "password": "Parolanız",
         "passwordAgain": "Parolanızın tekrarı",
